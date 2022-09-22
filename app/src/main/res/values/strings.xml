@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiniGallery</string>
+    <string name="button_select_picture">Load Picture</string>
+    <string name="button_save_picture">Save Picture</string>
+    <string name="slider_description_blur">Blur</string>
+    <string name="slider_description_saturation">Saturation</string>
+    <string name="view_selected_image">Image Container</string>
+    <string name="textview_slider_blur">Blur</string>
+    <string name="textview_slider_saturation">Saturation</string>
+</resources>

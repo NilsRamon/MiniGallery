@@ -60,11 +60,11 @@
 
             <ImageView
                 android:id="@+id/selected"
-                android:layout_width="300dp"
-                android:layout_height="200dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
                 android:background="@color/grey"
                 android:contentDescription="@string/view_selected_image"
-                android:scaleType="fitCenter" />
+                android:scaleType="fitXY" />
         </LinearLayout>
 
         <LinearLayout
